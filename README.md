@@ -1,6 +1,5 @@
-Facial Expression Recognition
+**Facial Expression Recognition**
 
-  
 The main purpose of the project is recognition of emotions based on facial expressions. Detected 7 Facial Expressions based on several features like eyes , lips, cheek alignments.
 
 Example:
